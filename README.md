@@ -1,7 +1,7 @@
 Designed and developed a fully fledge ecommerce web store with backend on Django and SQLite database.
 Passwords and user sensitive data are stored and encrypted using hashing method so that even admin can’t see the sensitive/personal data of customers.
 Used template inheritance to reuse the base template for the site.
-Utilized HTML, CSS and BOOTSTRAP to have a use friendly front end.
+Utilized HTML, CSS and BOOTSTRAP to have a user friendly front end.
 
 ![1](https://user-images.githubusercontent.com/80065408/182031369-261d674c-4d33-48c0-9dcb-56acfbed2253.PNG)
 
